@@ -1,0 +1,14 @@
+﻿   1: Arthurs Rest
+   2: Black Market
+   3: Bridgewatch
+   4: Bridgewatch Portal
+   5: Caerleon
+   6: Fort Sterling
+   7: Fort Sterling Portal
+   8: Lymhurst
+   9: Lymhurst Portal
+  10: Martlock
+  11: Martlock Portal
+  12: Morganas Rest
+  13: Thetford
+  14: Thetford Portal
