@@ -1,0 +1,21 @@
+C:\Users\David\Source\Repos\Albion-Statistics\Albion Statistics\bin\Debug\net6.0-windows\Albion Statistics.exe
+C:\Users\David\Source\Repos\Albion-Statistics\Albion Statistics\bin\Debug\net6.0-windows\Albion Statistics.deps.json
+C:\Users\David\Source\Repos\Albion-Statistics\Albion Statistics\bin\Debug\net6.0-windows\Albion Statistics.runtimeconfig.json
+C:\Users\David\Source\Repos\Albion-Statistics\Albion Statistics\bin\Debug\net6.0-windows\Albion Statistics.dll
+C:\Users\David\Source\Repos\Albion-Statistics\Albion Statistics\bin\Debug\net6.0-windows\Albion Statistics.pdb
+C:\Users\David\Source\Repos\Albion-Statistics\Albion Statistics\obj\Debug\net6.0-windows\Albion Statistics.csproj.AssemblyReference.cache
+C:\Users\David\Source\Repos\Albion-Statistics\Albion Statistics\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\David\Source\Repos\Albion-Statistics\Albion Statistics\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\David\Source\Repos\Albion-Statistics\Albion Statistics\obj\Debug\net6.0-windows\Albion Statistics_MarkupCompile.cache
+C:\Users\David\Source\Repos\Albion-Statistics\Albion Statistics\obj\Debug\net6.0-windows\Albion Statistics_MarkupCompile.lref
+C:\Users\David\Source\Repos\Albion-Statistics\Albion Statistics\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\David\Source\Repos\Albion-Statistics\Albion Statistics\obj\Debug\net6.0-windows\Albion Statistics.g.resources
+C:\Users\David\Source\Repos\Albion-Statistics\Albion Statistics\obj\Debug\net6.0-windows\Albion Statistics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Source\Repos\Albion-Statistics\Albion Statistics\obj\Debug\net6.0-windows\Albion Statistics.AssemblyInfoInputs.cache
+C:\Users\David\Source\Repos\Albion-Statistics\Albion Statistics\obj\Debug\net6.0-windows\Albion Statistics.AssemblyInfo.cs
+C:\Users\David\Source\Repos\Albion-Statistics\Albion Statistics\obj\Debug\net6.0-windows\Albion Statistics.csproj.CoreCompileInputs.cache
+C:\Users\David\Source\Repos\Albion-Statistics\Albion Statistics\obj\Debug\net6.0-windows\Albion Statistics.dll
+C:\Users\David\Source\Repos\Albion-Statistics\Albion Statistics\obj\Debug\net6.0-windows\refint\Albion Statistics.dll
+C:\Users\David\Source\Repos\Albion-Statistics\Albion Statistics\obj\Debug\net6.0-windows\Albion Statistics.pdb
+C:\Users\David\Source\Repos\Albion-Statistics\Albion Statistics\obj\Debug\net6.0-windows\Albion Statistics.genruntimeconfig.cache
+C:\Users\David\Source\Repos\Albion-Statistics\Albion Statistics\obj\Debug\net6.0-windows\ref\Albion Statistics.dll

@@ -56,7 +56,7 @@ namespace Albion_Statistics
         //Output Items List
         private void Btn_Item_List_Click(object sender, RoutedEventArgs e)
         {
-            string FilePath = "A:\\vsprojects\\Albion Statistics\\Albion Statistics\\Resources\\ItemsListFile.txt";
+            string FilePath = "..\\..\\..\\Resources\\ItemsListFile.txt";
             List<string> ItemList = File.ReadAllLines(FilePath).ToList();
             List_Items.Items.Clear();
             ItemInfoList.FillViewList(ItemList, List_Items);
@@ -65,7 +65,7 @@ namespace Albion_Statistics
         //Output Locations List
         private void Btn_Location_List_Click(object sender, RoutedEventArgs e)
         {
-            string FilePath = "A:\\vsprojects\\Albion Statistics\\Albion Statistics\\Resources\\LocationsListFile.txt";
+            string FilePath = "..\\..\\..\\Resources\\LocationsListFile.txt";
             List<string> ItemList = File.ReadAllLines(FilePath).ToList();
             List_Items.Items.Clear();
             LocationsInfoList.FillViewList(ItemList, List_Items);
@@ -74,7 +74,7 @@ namespace Albion_Statistics
         //Output Qualities List
         private void Btn_Qualities_List_Click(object sender, RoutedEventArgs e)
         {
-            string FilePath = "A:\\vsprojects\\Albion Statistics\\Albion Statistics\\Resources\\QualityListFile.txt";
+            string FilePath = "..\\..\\..\\Resources\\QualityListFile.txt";
             List<string> QualityList = File.ReadAllLines(FilePath).ToList();
             List_Items.Items.Clear();
             QualityInfoList.FillViewList(QualityList, List_Items);

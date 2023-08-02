@@ -5,8 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Albion_Statistics"
         mc:Ignorable="d"
-        Title="Albion Gold Statistics" Height="450" Width="532"
-        Icon="A:\vsprojects\Albion Statistics\Albion Statistics\Resources\albionicon.ico">
+        Title="Albion Gold Statistics" Height="450" Width="532">
     <Grid>
         <TabControl>
             <TabItem Header="Gold">
